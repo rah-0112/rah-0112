@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rah-0112
 - 👀 I’m interested in evolutionising the current trend
-- 🌱 I’m currently an undergraduate
+- 🌱 I’m currently an pragmatic undergraduate
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me through my Linkedin profile.
 
