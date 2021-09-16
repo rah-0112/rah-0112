@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rah-0112
+- 👋 Hi, I’m Rahul Gunaseelan
 - 👀 I’m interested in evolutionising the current trend
 - 🌱 I’m currently an pragmatic undergraduate
 - 💞️ I’m looking to collaborate on Web development projects
